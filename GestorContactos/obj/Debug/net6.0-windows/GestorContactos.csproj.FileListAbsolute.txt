@@ -1,0 +1,72 @@
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\GestorContactos.exe
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\GestorContactos.deps.json
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\GestorContactos.runtimeconfig.json
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\GestorContactos.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\GestorContactos.pdb
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.csproj.AssemblyReference.cache
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.Form1.resources
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.Properties.Resources.resources
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.csproj.GenerateResource.cache
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.AssemblyInfoInputs.cache
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.AssemblyInfo.cs
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.csproj.CoreCompileInputs.cache
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.csproj.CopyComplete
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\refint\GestorContactos.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.pdb
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.genruntimeconfig.cache
+C:\Users\Gamarinl25\Documents\Proyectos C#\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\ref\GestorContactos.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\GestorContactos.exe
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\GestorContactos.deps.json
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\GestorContactos.runtimeconfig.json
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\GestorContactos.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\GestorContactos.pdb
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.csproj.AssemblyReference.cache
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.Form1.resources
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.Properties.Resources.resources
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.csproj.GenerateResource.cache
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.AssemblyInfoInputs.cache
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.AssemblyInfo.cs
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.csproj.CoreCompileInputs.cache
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.csproj.CopyComplete
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\refint\GestorContactos.dll
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.pdb
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\GestorContactos.genruntimeconfig.cache
+C:\Users\GEALM\Documents\Proyectos Visual Studio 2022\GestorContactos\GestorContactos\obj\Debug\net6.0-windows\ref\GestorContactos.dll
